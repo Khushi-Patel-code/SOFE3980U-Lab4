@@ -1,12 +1,11 @@
 # Lab 4: ML Model Testing and Evaluation
 SOFE3980U - Software Quality and Testing | Ontario Tech University
 
-**Name:** Khushi Patel
-**Student ID:** 100940709
-**Subject:** Software Quality & Project Mgm
-**CRN:** 75766
-**Section:** 005
-
+**Name:** Khushi Patel  
+**Student ID:** 100940709  
+**Subject:** Software Quality & Project Mgm  
+**CRN:** 75766  
+**Section:** 005  
 
 ## Overview
 This lab focuses on testing and evaluating Machine Learning models using different metrics depending on the problem type. Three tasks are covered, each in its own Maven-managed Java project.
