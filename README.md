@@ -1,5 +1,4 @@
 # Lab 4: ML Model Testing and Evaluation
-SOFE3980U - Software Quality and Testing | Ontario Tech University
 
 **Name:** Khushi Patel  
 **Student ID:** 100940709  
